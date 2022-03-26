@@ -1,11 +1,6 @@
 '''
 author: Doaa Ali El-sayed Mohamed 
-ID : 20211034
-course: structured programming 1
-assignment 1
-task 7
-this a python code for game number 4 (number scrabble)
-
+this a python code for game number scrabble
 '''
 
 # import tkinter libarary for GUI 

@@ -1,6 +1,6 @@
 '''
 author: Doaa Ali El-sayed Mohamed 
-this a python code for game number scrabble
+this is a python code for game number scrabble
 '''
 
 # import tkinter libarary for GUI 
